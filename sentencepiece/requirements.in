@@ -1,0 +1,6 @@
+certifi==2020.12.5
+click==7.1.2
+pep517==0.10.0
+pip-tools==6.0.1
+sentencepiece==0.1.95
+toml==0.10.2
